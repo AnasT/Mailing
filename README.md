@@ -1,0 +1,4 @@
+Mailing
+=======
+
+Simple mailing package.
