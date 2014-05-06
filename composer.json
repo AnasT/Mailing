@@ -1,0 +1,23 @@
+{
+    "name": "anas-t/mailing",
+    "description": "Simple mainling package.",
+    "keywords": ["laravel", "mailing"],
+    "license": "MIT",
+    "homepage": "https://github.com/AnasT/Mailing",
+    "authors": [
+        {
+            "name": "Taha Anas",
+            "email": "taha.anas09@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "AnasT\\Mailing": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
