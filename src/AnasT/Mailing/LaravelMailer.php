@@ -31,7 +31,7 @@ abstract class LaravelMailer implements MailingInterface {
     }
 
     /**
-     * Send email to a user
+     * Send email.
      *
      * @param Illuminate\Database\Eloquent\Model $receiver
      * @param string $subject

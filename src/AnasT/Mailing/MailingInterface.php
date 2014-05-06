@@ -5,7 +5,7 @@ use Illuminate\Database\Eloquent\Model;
 interface MailingInterface {
 
     /**
-     * Send email to a user
+     * Send email.
      *
      * @param Illuminate\Database\Eloquent\Model $receiver
      * @param string $subject
